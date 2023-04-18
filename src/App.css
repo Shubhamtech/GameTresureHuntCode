@@ -1,0 +1,87 @@
+.App h1 {
+  text-align: center;
+  }
+  .App{
+    background: linear-gradient(144deg,#AF40FF, #5B42F3 50%,#00DDEB);
+     height: 100vh;
+ 
+    /* background: url(./tresure2.jpg);
+    background-size:     cover;                      
+    background-repeat:   no-repeat;
+    background-position: center center; 
+    height: 100vh; */
+   
+    /* linear-gradient(54deg,rgba(77, 84, 133, 0.95) 34%,hsla(0, 52%, 83%, 0.95)) , */
+  } 
+.nav-ul li{
+  display: inline-block;
+  padding: 13px;
+  margin-right: 0px;
+  /* display: flex; */
+  margin-bottom:-20px;
+  justify-content: center
+}
+
+.nav-ul{
+  padding:6.5px;
+  margin:0;
+  display:flex;
+  
+  background-image: linear-gradient(to right, #92fe9d 0%, #00c9ff 100%);
+}
+.nav-ul .login-a{
+
+   margin-left: 40rem;
+  
+}
+.nav-ul li a{
+  text-decoration: none;
+  padding: 5px;
+  color:#330867
+}
+.section img{
+  
+  width: 20rem;
+  height: 28rem;
+  overflow: hidden;
+}
+.footer{
+  position: absolute;
+  bottom: 0;
+  text-align: center;
+  width: 100%;
+  margin-top: 2rem;
+  
+  background-image: linear-gradient(-20deg, #b721ff 0%, #21d4fd 100%);
+}
+
+/* h3{
+  font-size: small;
+  margin-bottom: 15px;
+} */
+ 
+/* h6{
+  display: inline;
+  margin-left: 2rem;
+} */
+.para{
+ margin-bottom: 2rem; 
+ display:inline;
+ font-size: smaller;
+ margin-left: 2rem;
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+
+
+

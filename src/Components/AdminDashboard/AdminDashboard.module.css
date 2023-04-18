@@ -1,0 +1,44 @@
+.userdashboard {
+    max-width: 500px;
+    margin: 0 auto;
+    
+  }
+  
+  table {
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+  thead {
+    background-color: #f7f7f7;
+    font-weight: bold;
+  }
+  
+  th, td {
+    padding: 2px;
+    text-align: left;
+  }
+  
+  tr:nth-child(even) {
+    background-color: #f2f2f2;
+  }
+  
+  tr:hover {
+    background-color: #ddd;
+  }
+  
+  @media (max-width: 767px) {
+    table {
+      display: block;
+      overflow-x: auto;
+      white-space: nowrap;
+    }
+  
+    th, td {
+      display: inline-block;
+      width: 10%;
+      text-align: center;
+    }
+  }
+  
+  
