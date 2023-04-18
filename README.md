@@ -1,6 +1,30 @@
-# Getting Started with Create React App
+# TresureThenHunt- A Game
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+It is a Story-Game based softskill measure puzzle game which is made on React.js and firebase.In firebase it is using user authentication and realtime database for story user related data.
+
+## Game Instructions
+1. First Click on Register then Do login.
+2. This Game is Divided in two Stage Game.
+3. In the first stage game here will be a     Guessing Tresure by flipping the cards.
+4. There will be one hint given for finding half hidden/Stolen tresure so try to decode the hint.
+5. After Clearing the first stage game then the user will get a button i.e the 'Road to second stage game!!'.
+6. The second stage Game is based on quiz game on related Story plot/theme which is given there.
+7. In second Stage there will be 6 Clues are given to reach the Final Tresure. if you clear second stage so you will get all the tresures :).
+
+ 
+## Deployment
+
+https://game-tresure-hunt.vercel.app/
+
+# Screenshots
+
+
+![th1](https://user-images.githubusercontent.com/76065529/232748665-cdfffee2-b34e-4847-b611-9f2fc828dda8.jpg)
+![th2](https://user-images.githubusercontent.com/76065529/232747943-d22fdb29-4b6e-4cd5-80a8-ce94a1d4aee4.jpg)
+![th3](https://user-images.githubusercontent.com/76065529/232747941-34fceec6-17b6-4183-b6af-1a39900a60d5.jpg)
+![th6](https://user-images.githubusercontent.com/76065529/232747950-573ca68e-872a-4738-980a-0f02e72386b3.jpg)
+![th5](https://user-images.githubusercontent.com/76065529/232747928-7c2d0b5f-3ade-4b18-90f6-add77c4d9fb5.jpg)
+
 
 ## Available Scripts
 
